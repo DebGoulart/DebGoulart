@@ -21,8 +21,8 @@ Aqui estão alguns dos meus projetos em destaque:
 ## Contato
 
 <p align="left">
-<a href="https://mail.google.com/mail/u/1/#inbox" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="debh.goulart@gmail.com" height="40" width="120" /></a>     
-<a href="https://mail.proton.me/u/1/inbox#filter=read" target="blank"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="debgoulart@proton.me" height="40" width="150" /></a> 
+<a href="mailto:debh.goulart@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="debh.goulart@gmail.com" height="40" width="120" /></a>     
+<a href="mailto:debgoulart@proton.me" target="blank"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="debgoulart@proton.me" height="40" width="150" /></a> 
 <a href="https://twitter.com/DeborahGoulart_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="DeborahGoulart_" height="40" width="120" /></a>    
 <a href="https://www.instagram.com/deborahgoulart_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" width="140" /></a>         
 </p>
