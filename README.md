@@ -62,7 +62,7 @@ Here are some of my featured projects:
     <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="DeborahGoulart_" height="40" width="120" />
   </a>
   <a href="https://www.instagram.com/deborahgoulart_/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" width="140" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" width="150" />
   </a>
 </p>
 
