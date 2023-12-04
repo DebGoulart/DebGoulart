@@ -4,7 +4,7 @@
 
 I'm Deborah Goulart, 19 years old, and currently in the 2nd semester of my Computer Science degree.
 
-- 🌱 Currently, I'm studying the C and Python programming languages.
+- 🌱 Currently, I'm studying C, Python and Shell Script.
 - 👯 I'm open to collaborations and contributions to interesting projects.
 
 ## Featured Projects 💻
