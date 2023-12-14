@@ -1,20 +1,20 @@
-# Welcome to my profile! 
+#  Bem-vindo ao meu perfil! 
 
-## About Me 😉
+## Sobre mim 😉
 
-I'm Deborah Goulart, 19 years old, and currently in the 2nd semester of my Computer Science degree.
+Eu me chamo Deborah Goulart, tenho 19 anos e atualmente estou no 3° semestre em Ciência da Computação na Universidade Veiga de Almeida.
 
-- 🌱 Currently, I'm studying C, Python and Shell Script.
-- 👯 I'm open to collaborations and contributions to interesting projects.
+- 🌱 Atualmente estou estudando Python e Shell Script 
+- 👯 Estou aberta para colaborações e contribuiçoes para projetos.
 
-## Featured Projects 💻
+## Projetos 💻
 
-Here are some of my featured projects:
+Aqui está alguns dos meus principais projetos:
 
-- [Currency Converter](https://github.com/DebGoulart/Conversor-de-Moedas): A currency converter I built entirely in Python, which converts with the latest exchange rates for each currency.
-- [JS Stopwatch](https://github.com/DebGoulart/Cronometro.js): A simple stopwatch made in JS, HTML, and CSS, with features to start, pause, and reset the timer.
+- [Conversor de Moedas](https://github.com/DebGoulart/Conversor-de-Moedas): Um conversor de moedas que desenvolvi completamente em Python, o qual converte utilizando as taxas de câmbio mais recentes para cada moeda.
+- [Cronômetro JS](https://github.com/DebGoulart/Cronometro.js): Um cronômetro simples feito em JS, HTML e CSS, com funcionalidades para iniciar, pausar e reiniciar o temporizador.
 
-## Languages and Tools 🛠️
+## Linguagens e Ferramentas 🛠️
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -49,7 +49,7 @@ Here are some of my featured projects:
   </a>
 </p>
 
-## Contact 📞
+## Contatos 📞
 
 <p align="left">
   <a href="mailto:debh.goulart@gmail.com" target="blank">
@@ -66,11 +66,11 @@ Here are some of my featured projects:
   </a>
 </p>
 
-## GitHub Statistics 📄
+## Estatísticas do GitHub 📄
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=DebGoulart&theme=synthwave&show_icons=true)
 
-Thanks for visiting my profile! 😄
+Obrigada por visitar meu perfil! 😄
 
 
 
