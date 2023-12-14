@@ -58,6 +58,9 @@ Here are some of my featured projects:
   <a href="mailto:deb.goulart@proton.me" target="blank">
     <img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="debgoulart@proton.me" height="40" width="150" />
   </a>
+  <a href="https://www.linkedin.com/in/deborah-goulart-35bb9322a/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="150" />
+  </a>
   <a href="https://www.instagram.com/deborahgoulart_/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" width="150" />
   </a>
