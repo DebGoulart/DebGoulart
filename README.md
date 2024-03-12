@@ -76,5 +76,6 @@ Aqui está alguns dos meus principais projetos:
 Obrigada por visitar meu perfil! 😄
 
 
-
+<p align="center">
 »»————————————————-　★　————————————————-««
+</p>
