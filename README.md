@@ -55,7 +55,7 @@ Aqui está alguns dos meus principais projetos:
   <a href="mailto:debh.goulart@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="debh.goulart@gmail.com" height="40" width="120" />
   </a>
-  <a href="mailto:deb.goulart@proton.me" target="blank">
+  <a href="mailto:debgoulart@proton.me" target="blank">
     <img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="debgoulart@proton.me" height="40" width="150" />
   </a>
   <a href="https://www.linkedin.com/in/deborah-goulart-35bb9322a/" target="blank">
