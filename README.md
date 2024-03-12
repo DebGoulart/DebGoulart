@@ -16,7 +16,7 @@ Aqui está alguns dos meus principais projetos:
 
 ## Linguagens e Ferramentas 🛠️
 
-<p align="left">
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -51,7 +51,7 @@ Aqui está alguns dos meus principais projetos:
 
 ## Contatos 📞
 
-<p align="left">
+<p align="center">
   <a href="mailto:debh.goulart@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="debh.goulart@gmail.com" height="40" width="120" />
   </a>
@@ -66,9 +66,12 @@ Aqui está alguns dos meus principais projetos:
   </a>
 </p>
 
+
 ## Estatísticas do GitHub 📄
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=DebGoulart&theme=synthwave&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DebGoulart&theme=synthwave&show_icons=true" alt="GitHub Statistics">
+</p>
 
 Obrigada por visitar meu perfil! 😄
 
