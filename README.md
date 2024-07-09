@@ -2,9 +2,9 @@
 
 ## Sobre mim 😉
 
-Eu me chamo Deborah Goulart, tenho 20 anos e atualmente estou no 3° semestre em Ciência da Computação na Universidade Veiga de Almeida.
+Eu me chamo Deborah Goulart, tenho 20 anos e atualmente estou no 4° semestre em Ciência da Computação na Universidade Veiga de Almeida.
 
-- 🌱 Atualmente estou estudando Pytho, Shell Script e Docker.
+- 🌱 Atualmente estou estudando Python, Shell Script e Docker.
 - 👯 Estou aberta para colaborações e contribuiçoes para projetos.
 
 ## Projetos 💻
