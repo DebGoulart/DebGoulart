@@ -2,16 +2,15 @@
 
 ## Sobre mim 😉
 
-Eu me chamo Deborah Goulart, tenho 20 anos e atualmente estou no 4° semestre em Ciência da Computação na Universidade Veiga de Almeida.
+Eu me chamo Deborah Goulart, tenho 21 anos e atualmente estou no 4° semestre em Ciência da Computação na Universidade Veiga de Almeida.
 
-- 🌱 Atualmente estou estudando Python, Shell Script e Docker.
+- 🌱 Atualmente estou estudando Java, Shell Script e algumas ferramentas de DevOps.
 - 👯 Estou aberta para colaborações e contribuiçoes para projetos.
 
 ## Projetos 💻
 
 Aqui está alguns dos meus principais projetos:
 
-- [Conversor de Moedas](https://github.com/DebGoulart/Conversor-de-Moedas): Um conversor de moedas que desenvolvi completamente em Python, o qual converte utilizando as taxas de câmbio mais recentes para cada moeda.
 - [Youtube Downloader](https://github.com/DebGoulart/youtube-downloader): Script que realiza conversão e download de video/audio/playlist no youtube.
 
 ## Linguagens e Ferramentas 🛠️
